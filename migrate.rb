@@ -5,6 +5,7 @@ require 'json'
 
 ## Let's pretend this is FOO-3 feature code
 ## And this is FOO-4 automated tests
+## What happens if I mention the story ticket #?
 
 # Handy global slugs
 gitlab_url = 'http://rocketsquawk.dyndns.org/api/v3/'
