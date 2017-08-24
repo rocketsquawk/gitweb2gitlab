@@ -48,3 +48,6 @@ The URL to your gitweb instance
 ## Oh, and ...
 
 No, none of the URLs or API keys in this script are valid anymore :P
+
+## For demo ...
+This is to demo the JIRA -> Bamboo Rel Mgmt features.
