@@ -3,6 +3,8 @@ require 'open-uri'
 require 'rest_client'
 require 'json'
 
+## Let's pretend this is FOO-3 feature code
+
 # Handy global slugs
 gitlab_url = 'http://rocketsquawk.dyndns.org/api/v3/'
 api_key = 'oWMTPkERQxKcTenV2aNT'
